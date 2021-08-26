@@ -2,8 +2,6 @@
 
 - 🔭 Atualmente estou trabalhando com frontend. 
 - 🌱 Estou estudando React & Typescript, 
-- 📫 Encontre-me em: vitorsaraivapereira1@gmail.com
-- ⚡ Fun fact: 80% do tempo em que me encontro codando estou xingando o código(e os outros 20 estou me xingando rs) 
 
 <div>
   <a href="https://github.com/SaraivaVitor">
