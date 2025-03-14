@@ -1,8 +1,8 @@
 ### Olá mundo, me chamo Vitor Saraiva! 👋
 
 - 🔭 Atualmente estou trabalhando com frontend. 
-- 🌱 Estou estudando Clean Architecture com React & Typescript, 
-- 💻 Atualmente trabalhando como Desenvolvedor Front-End na empresa Taghos
+- 🌱 Estou estudando Clean Architecture com React(WEB/Native) & Typescript.
+- 💻 Atualmente trabalhando como Desenvolvedor Front-End
 
 <div>
   <a href="https://github.com/SaraivaVitor">
